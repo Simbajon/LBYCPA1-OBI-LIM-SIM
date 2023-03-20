@@ -2,7 +2,7 @@
 # LBYCPA1 Project Proposal
 
 # Team: 
-    Pulis Pangkalawakan, Zaido
+    Superman
 
 # Project Description:
     The Movie Organizer is a program that helps users organize their movie collection by sorting them based on their release date and genre. 
